@@ -1,2 +1,3 @@
 # documents
-have a some document.
+
+## 1. clash 使用
